@@ -15,9 +15,9 @@ In the theater outcomes by month, it's tough to understand where the theater mig
 
 In the outcomes based on goals, there is a very small amount of kickstarter that had goals of greater than $25000, which is not a good sample size to work with to make any strong statements of what could be causing the issues.  Also, no kickstarters were canceled, so it's worth asking why we would analyze that data only to see there is nothing to review.
 ## Results
-
+![This is an image](https://github.com/barrettben/Kickstarter-Analysis/blob/11169e78003e98476cc12d4a611c9105e272085d/Theater_Outcomes_vs_Launch.png)
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+![This is an image](https://github.com/barrettben/Kickstarter-Analysis/blob/11169e78003e98476cc12d4a611c9105e272085d/Outcomes_vs_Goals.png)
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
