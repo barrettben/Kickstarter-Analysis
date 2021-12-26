@@ -17,9 +17,17 @@ In the outcomes based on goals, there is a very small amount of kickstarter that
 ## Results
 ![This is an image](https://github.com/barrettben/Kickstarter-Analysis/blob/11169e78003e98476cc12d4a611c9105e272085d/Theater_Outcomes_vs_Launch.png)
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. It is better to do a kickstarter in the months of April through August to have the most likelyhood of being successful
+2. There is a small chance that the kickstarter will get canceled
 ![This is an image](https://github.com/barrettben/Kickstarter-Analysis/blob/11169e78003e98476cc12d4a611c9105e272085d/Outcomes_vs_Goals.png)
 - What can you conclude about the Outcomes based on Goals?
-
+1. There is not enough data for goal ranges above $25000 to provide confidence in the success rate.
+2. The ranges of less than $1000 and $1000 to $4999 seem to be the best ranges to assure a highest probability of success
 - What are some limitations of this dataset?
-
+1. Region of data is unknown to understand is any data is seasonal based.  The data shows country, but we do know know climate based on the region of those countries.
+2. Marketing budget is unknown
+3. Marketing methods are unknown
+4. Number of staff dedicated to each kickstarter is unknown
 - What are some other possible tables and/or graphs that we could create?
+1. Comparison by country would be helpful to know if the kickstarters were providing different outcomes by countrys when compared side by side
+2. Average duration of each kickstarter to help understand if there is a sweet spot for how long a kickstarter should be by goal range
